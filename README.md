@@ -1,4 +1,4 @@
-# Vue.js + Node Time Tracker
+# Vue.js + Node
 
 This repo goes along with the Vue.js + Node
 
